@@ -20,9 +20,9 @@
 
 ### 💥 Deploy On Heroku 💥
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AdityaHalder/MusicPlayer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingboyss/micbot)
 
 
 ### 🌷 Deploy On Railway 🌷
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/AdityaHalder/MusicPlayer&envs=API_ID,API_HASH,ASSISTANT_USERNAME,OWNER_USERNAME,BOT_USERNAME,BOT_TOKEN,BG_IMAGE,BOT_IMAGE,DURATION_LIMIT,SESSION_NAME,UPDATES_CHANNEL,SUPPORT_GROUP,SUDO_USERS)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/kingboyss/micbot&envs=API_ID,API_HASH,ASSISTANT_USERNAME,OWNER_USERNAME,BOT_USERNAME,BOT_TOKEN,BG_IMAGE,BOT_IMAGE,DURATION_LIMIT,SESSION_NAME,UPDATES_CHANNEL,SUPPORT_GROUP,SUDO_USERS)
