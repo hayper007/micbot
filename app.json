@@ -1,9 +1,9 @@
 {
     "name": "Music Player",
-    "logo": "https://telegra.ph/file/abbba622b483d56d79688.png",
+    "logo": "https://telegra.ph/file/1bfa341fae051359be9cb.jpg",
     "description": "An Advanced Superfast Vc Music Player for Telegram Group ...",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/AdityaHalder/MusicPlayer",
+    "repository": "https://github.com/kingboyss/micbot",
     "stack": "container",
     "env": {
         "API_ID": {
@@ -17,7 +17,7 @@
         "ASSISTANT_USERNAME": {
             "description": "Fill with your assistant username without @",
             "required": true,
-            "value": "alexavc"
+            "value": " "
         },
         "OWNER_USERNAME": {
             "description": "Fill With your (Bot Owner) username without @",
@@ -27,7 +27,7 @@
         "BOT_USERNAME": {
             "description": "Fill with your bot username without @",
             "required": true,
-            "value": "alexavcbot"
+            "value": " "
         },
         "BOT_TOKEN": {
             "description": "Your bot token from @BotFather",
@@ -46,7 +46,7 @@
         "DURATION_LIMIT": {
             "description": "Duration limit for your musicplayer (in minutes).",
             "required": true,
-            "value": "10"
+            "value": "1449"
         },
         "SESSION_NAME": {
             "description": "Pyrogram String Session ...",
